@@ -1,0 +1,21 @@
+.hero{
+    background-color: #FFF0E0 ;
+}   
+.navbar-brand{
+    margin-left: 12%;
+}
+.collapse{
+    margin-left: 32%;
+}
+
+.navbar-nav{
+    justify-content: space-between;
+}
+
+h1{
+    color: #F857A6;
+    
+}
+.dropdown{
+    margin-left: 40%;
+}
